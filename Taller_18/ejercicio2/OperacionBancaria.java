@@ -4,6 +4,6 @@ public interface OperacionBancaria {
 
     void transferencias();
     void retiros();
-    void pagosFactura();
+    void pagosFacturas();
 
 }
